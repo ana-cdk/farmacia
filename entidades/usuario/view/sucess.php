@@ -1,0 +1,1 @@
+<?php echo '<div class="alert alert-success" role="alert">Usuário cadastrado com sucesso!</div>'; ?>
